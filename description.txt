@@ -1,0 +1,23 @@
+developed using Pycharm IDE 
+by Gregory Guditus
+
+z-score is a .csv file which contains the area under a normal curve at a specific z-score value. 
+
+The main code will open a GUI when run which will then greet the user, allow them to calculate 
+a probability, or quit the program. 
+sample inputs: 
+normal approximation
+	mean=90
+	st. dev.=5
+	x value=100
+statistical information
+	Out of 10 (P) people 6 (N) of them say that they are football fans. What is the probability 
+	that greater than/less than/exactly 9 people would say that they are football fans? 
+z-score probability
+	enter a known z-score to 2 decimal places in the range of [-3.40, 3.49] 
+flip a coin
+	any whole number
+roll a die
+	enter the number of sides for a single die, or if rolling multiple dice the sum of sides in
+	 each die
+	enter the number of sides expected ex. 3 sides if looking for all odd number in a 6-sided die
