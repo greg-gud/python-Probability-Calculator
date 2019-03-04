@@ -13,7 +13,7 @@ with open('zScore.csv') as f:
         zScore[i/10]=row
         i+=1
 
-#code for GUI
+#CODE FOR GUI
 #code for home page
 root = Tk()
 root.title("Probability Calculator")
